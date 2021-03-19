@@ -27,6 +27,18 @@
 .App-link {
   color: #61dafb;
 }
+.tick line{
+  stroke: lightgrey;
+  stroke-opacity: 0.5;
+}
+.tooltip {
+   fill: none;
+   pointer-events: all;
+ }
+.tooltip-text{
+  font-size: 14px;
+  font-weight: 600;
+}
 
 @keyframes App-logo-spin {
   from {
