@@ -7,7 +7,7 @@ npm install jpmc-task
 npm start
 
 ### Install dependencies
-# d3 js verison 4
+#### d3 js verison 4
 
 
 npm install d3@4
